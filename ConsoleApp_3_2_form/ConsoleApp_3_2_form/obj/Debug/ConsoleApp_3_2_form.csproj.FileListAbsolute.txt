@@ -1,0 +1,11 @@
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\bin\Debug\ConsoleApp_3_2_form.exe.config
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\bin\Debug\ConsoleApp_3_2_form.exe
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\bin\Debug\ConsoleApp_3_2_form.pdb
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\obj\Debug\ConsoleApp_3_2_form.Form1.resources
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\obj\Debug\ConsoleApp_3_2_form.Properties.Resources.resources
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\obj\Debug\ConsoleApp_3_2_form.csproj.GenerateResource.Cache
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\obj\Debug\ConsoleApp_3_2_form.exe
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\obj\Debug\ConsoleApp_3_2_form.pdb
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\obj\Debug\ConsoleApp_3_2_form.csproj.AssemblyReference.cache
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\obj\Debug\ConsoleApp_3_2_form.csproj.SuggestedBindingRedirects.cache
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2_form\ConsoleApp_3_2_form\obj\Debug\ConsoleApp_3_2_form.csproj.CoreCompileInputs.cache

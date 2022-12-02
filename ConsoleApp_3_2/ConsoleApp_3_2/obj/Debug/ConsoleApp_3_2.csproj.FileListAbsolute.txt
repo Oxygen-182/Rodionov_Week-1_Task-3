@@ -1,0 +1,8 @@
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2\ConsoleApp_3_2\bin\Debug\ConsoleApp_3_2.exe.config
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2\ConsoleApp_3_2\bin\Debug\ConsoleApp_3_2.exe
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2\ConsoleApp_3_2\bin\Debug\ConsoleApp_3_2.pdb
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2\ConsoleApp_3_2\obj\Debug\ConsoleApp_3_2.exe
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2\ConsoleApp_3_2\obj\Debug\ConsoleApp_3_2.pdb
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2\ConsoleApp_3_2\obj\Debug\ConsoleApp_3_2.csproj.AssemblyReference.cache
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2\ConsoleApp_3_2\obj\Debug\ConsoleApp_3_2.csproj.SuggestedBindingRedirects.cache
+E:\УПК\Нед_1\Задание_3\ConsoleApp_3_2\ConsoleApp_3_2\obj\Debug\ConsoleApp_3_2.csproj.CoreCompileInputs.cache
